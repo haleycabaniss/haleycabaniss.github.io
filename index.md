@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to my website!
+My name is Haley Cabaniss and I'm a physical volcanologist who uses numerical modeling as a tool to address variability in crustal stresses that influence the formation, migration, evolution and eruption of melt at the Earth’s surface. My work has traditionally combined observations from geophysics, geochemistry, and geology to study timescales of magma accumulation, "external" controls on unrest and eruption, and relationships between seismicity, deformation and eruption. I am particularly interested in rift-related volcanism, and this has naturally inspired my interests in mid-ocean ridge processes and seafloor stability. My primary field site is the the submarine volcano, Axial Seamount, though I have also worked extensively on terrestrial systems at the Taupo Caldera in New Zealand, Colima Volcano in Mexico, and even on Triassic dikes in the Southeastern U.S.
+
+I'm currently an Assistant Professor of Geology at Eastern Kentucky University where I teach Applied Geophysics, Structural Geology and a variety of general education courses related to my research interests. I also mentor several undergraduate students in research, who's work you can read about here!
+
+## CabLab News
+
+**June 16, 2022:** Haley to Participate in Sea-Going Research Expedition to the Axial Seamount (Cruise TN-404)
+
+**May 13th, 2022:** Congratulations to CabLab Student, Jesse Haeckler, for graduating with her BS in Computer Science from EKU!
+
+**May 10th, 2022:** EKU Undergraduates, Abbie Maxey & Marley Yopp join the CabLab to collaborate on an exciting geoarchaeology project!
+
 
 You can use the [editor on GitHub](https://github.com/haleycabaniss/haleycabaniss.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
