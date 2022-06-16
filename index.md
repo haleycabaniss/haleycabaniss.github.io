@@ -3,7 +3,7 @@ My name is Haley Cabaniss and I'm a physical volcanologist who uses numerical mo
 
 I'm currently an Assistant Professor of Geology at Eastern Kentucky University where I teach Applied Geophysics, Structural Geology and a variety of general education courses related to my research interests. I also mentor several undergraduate students in research, who's work you can read about here!
 
-![Jason Van](/least-github-pages/assets/4AxialCruise_Operating_Manipulator_Arm_Jason_Control_Van.jpg)
+![Jason Van](/doc/assets/images/4AxialCruise_Operating_Manipulator_Arm_Jason_Control_Van.jpg)
 
 ## CabLab News
 
