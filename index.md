@@ -1,3 +1,4 @@
+# Welcome to my website!
 My name is Haley Cabaniss and I'm a physical volcanologist who uses numerical modeling as a tool to address variability in crustal stresses that influence the formation, migration, evolution and eruption of melt at the Earth’s surface. My work has traditionally combined observations from geophysics, geochemistry, and geology to study timescales of magma accumulation, "external" controls on unrest and eruption, and relationships between seismicity, deformation and eruption. 
 
 I'm currently an Assistant Professor of Geology at Eastern Kentucky University where I teach Applied Geophysics, Structural Geology and a variety of general education courses related to my research interests. I also mentor several undergraduate students in research, who's work you can read about here!
