@@ -1,9 +1,1 @@
-# Site Settings
-# theme: jekyll-theme-minimal
-logo: /doc/assets/images/4AxialCruise_Operating_Manipulator_Arm_Jason_Control_Van.jpg
-description: asdf
-url: https://www.haleycabaniss.github.io
 
-# Build
-markdown: kramdown
-theme: minima
